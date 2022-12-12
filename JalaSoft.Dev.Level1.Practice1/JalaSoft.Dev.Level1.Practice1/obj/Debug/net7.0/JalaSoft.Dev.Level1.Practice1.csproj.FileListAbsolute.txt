@@ -1,0 +1,15 @@
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.csproj.AssemblyReference.cache
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.GeneratedMSBuildEditorConfig.editorconfig
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.AssemblyInfoInputs.cache
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.AssemblyInfo.cs
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.csproj.CoreCompileInputs.cache
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\bin\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.exe
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\bin\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.deps.json
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\bin\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.runtimeconfig.json
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\bin\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.dll
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\bin\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.pdb
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.dll
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\refint\JalaSoft.Dev.Level1.Practice1.dll
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.pdb
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\JalaSoft.Dev.Level1.Practice1.genruntimeconfig.cache
+D:\JALA UNIVERSITY\Backend\repoP1\JalaSoft.Dev.Level1.Practice1\JalaSoft.Dev.Level1.Practice1\obj\Debug\net7.0\ref\JalaSoft.Dev.Level1.Practice1.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "JalaSoft.Dev.Level1.Practice1/1.0.0": {
+        "runtime": {
+          "JalaSoft.Dev.Level1.Practice1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "JalaSoft.Dev.Level1.Practice1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
